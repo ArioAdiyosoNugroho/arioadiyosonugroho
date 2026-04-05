@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=Halo,+Saya+Ario+Adiyoso+Nugroho+👋;Selamat+Datang+di+Profil+GitHub+Saya!;Saya+seorang+Tech+Enthusiast+🚀" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=250&section=header&text=Ario%20Adiyoso&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Developer%20|%20AI%20Enthusiast&descAlignY=51&descSize=20" width="100%" />
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG4xNmo2dnNsMzhnOTNtdzJkZWExd2Z5b2FkMm9xMDVjemN5aXdrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IJwKtwdAiLhLt8NNUN/giphy.gif" width="600" alt="Coding Anime GIF" />
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Horns.png" alt="Smiling Face" width="50" height="50" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand" width="50" height="50" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="50" height="50" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=Halo,+Saya+Ario+Adiyoso+Nugroho+👋;Full-stack+Web+&+Software+Developer;Membangun+Masa+Depan+dengan+AI+🚀" alt="Typing SVG" />
 
 <p align="center">
-  Seorang pengembang yang bersemangat dalam membangun perangkat lunak berkualitas dan selalu ingin belajar teknologi baru.
+  Seorang pengembang yang berdedikasi tinggi dalam menciptakan perangkat lunak yang bersih, fungsional, dan inovatif.
 </p>
 
 <p align="center">
   <a href="mailto:email-anda@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/username-linkedin-anda">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -28,56 +28,67 @@
 
 ---
 
-### 👨‍💻 Tentang Saya
+### 👨‍💻 Mengenal Saya Lebih Dekat
 
-- 🔭 Saat ini saya sedang fokus mengerjakan: **[Sebutkan Proyek/Pekerjaan Anda]**
-- 🌱 Saat ini saya sedang mempelajari: **[Sebutkan Bahasa/Framework, misal: React.js, Python, atau AI]**
-- 👯 Saya terbuka untuk berkolaborasi pada: **[Sebutkan jenis proyek, misal: Open Source]**
-- 🤔 Saya mencari bantuan mengenai: **[Sebutkan topik jika ada]**
-- 💬 Tanyakan saya tentang: **[Keahlian utama Anda, misal: Web Development]**
-- ⚡ Fakta unik: **[Masukkan fakta menarik, misal: Saya menghabiskan lebih banyak waktu mencari *bug* daripada menulis kode! 🐛]**
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
+        <li>🔭 <b>Fokus Utama:</b> Mengembangkan platform E-Commerce <b>Resik.id</b> untuk lomba FIKSI Nasional.</li>
+        <li>🌱 <b>Sedang Mendalami:</b> Integrasi AI dalam ekosistem Web (Next.js & Laravel).</li>
+        <li>👯 <b>Kolaborasi:</b> Terbuka untuk proyek Open Source atau pengembangan aplikasi skala industri.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <ul>
+        <li>💬 <b>Tanya Saya Tentang:</b> Laravel, React, dan Arsitektur Database.</li>
+        <li>⚡ <b>Fakta Unik:</b> Saya sangat teliti dalam urusan UI, bagi saya 1px sangat berharga! 🎨</li>
+        <li>🎯 <b>Tujuan:</b> Menciptakan solusi teknologi yang berdampak sosial tinggi.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Bahasa & Teknologi (Tech Stack)
-
-*Sesuaikan logo di bawah ini dengan keahlian yang Anda miliki:*
+### 🛠️ Penguasaan Teknologi (Tech Stack)
 
 <div align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <br/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+
+**Frontend**<br/>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" />
+
+<br/>
+
+**Backend & Database**<br/>
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white" />
+
+<br/>
+
+**Tools & Others**<br/>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />
+
 </div>
 
 ---
 
-### 📊 Statistik GitHub Saya
-
-*Bagian ini akan di-update secara otomatis secara interaktif setiap kali Anda melakukan commit atau aktivitas di GitHub!*
+### 📊 Aktivitas GitHub
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=ArioAdiyosoNugroho&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArioAdiyosoNugroho&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArioAdiyosoNugroho&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArioAdiyosoNugroho&theme=tokyonight&hide_border=true" width="100%" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ArioAdiyosoNugroho&label=Kunjungan+Profil&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ArioAdiyosoNugroho&label=Kunjungan+Profil&color=36BCF7&style=for-the-badge" alt="Profile Views" />
 </div>
