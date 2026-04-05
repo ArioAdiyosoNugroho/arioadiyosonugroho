@@ -42,8 +42,7 @@ Jika ingin ganti hero/banner atas, tinggal ubah URL pada dua tag <img> pertama.
   <tr>
     <td width="60%" valign="top">
 
-- I am currently developing **Resik.id** and other product-focused projects.
-- Main stack: **Laravel, React, Next.js, MySQL**, and practical deployment workflows.
+- Main stack: **Laravel, React, MySQL**, and practical deployment workflows.
 - I enjoy combining **software engineering + AI** for useful, real-world solutions.
 - Open to collaboration for open-source and production-grade application work.
 - Focus area for 2026: scalable web architecture and intelligent app features.
