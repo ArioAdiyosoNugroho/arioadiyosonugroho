@@ -11,7 +11,7 @@ Jika belum ada file lokal, gunakan URL publik terlebih dahulu.
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG4xNmo2dnNsMzhnOTNtdzJkZWExd2Z5b2FkMm9xMDVjemN5aXdrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IJwKtwdAiLhLt8NNUN/giphy.gif" width="100%" alt="Hero GIF" />
 
-<h1>Namaste | I'm Ario Adiyoso Nugroho</h1>
+<h1>Selamat datang | I'm Ario Adiyoso Nugroho</h1>
 <p>
   Full-stack Developer | AI Enthusiast | Building clean and impactful software
 </p>
