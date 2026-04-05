@@ -1,8 +1,7 @@
 ﻿<!--
-Template aset lokal (opsional, agar tampil seperti contoh):
-1) assets/banner-main.gif   -> banner atas lebar penuh
-2) assets/footer-scene.gif  -> visual penutup di bawah
-Jika belum ada file lokal, gunakan URL publik terlebih dahulu.
+Template aset lokal (opsional):
+1) img/footer.jpg -> footer banner lebar penuh
+Jika ingin ganti hero/banner atas, tinggal ubah URL pada dua tag <img> pertama.
 -->
 
 <div align="center">
@@ -71,21 +70,88 @@ Jika belum ada file lokal, gunakan URL publik terlebih dahulu.
 ## Languages and Tools I Use
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,php,laravel,mysql,sqlite,python,git,github,vscode,figma,postman,linux&theme=dark" alt="Skill Icons" />
+  <img src="https://img.shields.io/badge/Tech%20Stack-Tools%20%26%20Teknologi%20yang%20Saya%20Kuasai-111827?style=for-the-badge&labelColor=0b1220&color=1f2937" alt="Tech Stack Title" />
 </div>
 
 <br />
 
-<div align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C Sharp" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SCIKIT_LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit Learn" />
-  <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5" /><br />
+      <strong>HTML5</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3" /><br />
+      <strong>CSS3</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" /><br />
+      <strong>JavaScript</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="42" height="42" alt="React" /><br />
+      <strong>React</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="42" height="42" alt="Tailwind CSS" /><br />
+      <strong>Tailwind</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="42" height="42" alt="PHP" /><br />
+      <strong>PHP</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="42" height="42" alt="Laravel" /><br />
+      <strong>Laravel</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="42" height="42" alt="CodeIgniter" /><br />
+      <strong>CodeIgniter</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL" /><br />
+      <strong>MySQL</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="42" height="42" alt="Figma" /><br />
+      <strong>Figma</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" alt="Git" /><br />
+      <strong>Git</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="42" height="42" alt="WordPress" /><br />
+      <strong>WordPress</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="42" height="42" alt="C#" /><br />
+      <strong>C#</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="42" height="42" alt="Flutter" /><br />
+      <strong>Flutter</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="42" height="42" alt="Bootstrap" /><br />
+      <strong>Bootstrap</strong>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="42" height="42" alt="Canva" /><br />
+      <strong>Canva</strong>
+    </td>
+  </tr>
+</table>
 
 ---
+
 
 ## Best Repositories
 
@@ -107,5 +173,6 @@ Jika belum ada file lokal, gunakan URL publik terlebih dahulu.
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=180&section=footer" width="100%" alt="Footer" />
+  <img src="./img/footer.jpg" width="100%" alt="Ario Adiyoso Footer Banner" />
 </div>
+
