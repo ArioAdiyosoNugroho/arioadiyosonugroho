@@ -28,6 +28,9 @@ Jika ingin ganti hero/banner atas, tinggal ubah URL pada dua tag <img> pertama.
   <a href="https://github.com/ArioAdiyosoNugroho">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://arioadiyosonugroho.github.io/Portofolio/">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" />
+  </a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=ArioAdiyosoNugroho&label=PROFILE+VIEWS&color=2F81F7&style=for-the-badge" alt="Profile Views" />
@@ -163,4 +166,3 @@ Jika ingin ganti hero/banner atas, tinggal ubah URL pada dua tag <img> pertama.
 <div align="center">
   <img src="./img/footer.jpg" width="100%" alt="Ario Adiyoso Footer Banner" />
 </div>
-
