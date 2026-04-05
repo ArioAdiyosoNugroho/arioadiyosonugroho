@@ -5,10 +5,10 @@ Jika ingin ganti hero/banner atas, tinggal ubah URL pada dua tag <img> pertama.
 -->
 
 <div align="center">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG4xNmo2dnNsMzhnOTNtdzJkZWExd2Z5b2FkMm9xMDVjemN5aXdrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IJwKtwdAiLhLt8NNUN/giphy.gif" width="100%" alt="Hero GIF" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=220&section=header&text=Welcome%20to%20Ario's%20GitHub&fontColor=E6EDF3&fontSize=42&animation=fadeIn&fontAlignY=50" width="100%" alt="Header" />
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG4xNmo2dnNsMzhnOTNtdzJkZWExd2Z5b2FkMm9xMDVjemN5aXdrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IJwKtwdAiLhLt8NNUN/giphy.gif" width="100%" alt="Hero GIF" />
 
 <h1>Selamat datang | I'm Ario Adiyoso Nugroho</h1>
 <p>
