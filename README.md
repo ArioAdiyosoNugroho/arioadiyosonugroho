@@ -60,8 +60,6 @@ Jika ingin ganti hero/banner atas, tinggal ubah URL pada dua tag <img> pertama.
 ## GitHub Status
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArioAdiyosoNugroho&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArioAdiyosoNugroho&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArioAdiyosoNugroho&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
@@ -149,16 +147,6 @@ Jika ingin ganti hero/banner atas, tinggal ubah URL pada dua tag <img> pertama.
     </td>
   </tr>
 </table>
-
----
-
-
-## Best Repositories
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ArioAdiyosoNugroho&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true" alt="Pinned Repo 1" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ArioAdiyosoNugroho&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true" alt="Pinned Repo 2" />
-</div>
 
 ---
 
