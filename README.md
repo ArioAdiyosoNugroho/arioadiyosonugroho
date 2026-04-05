@@ -49,7 +49,7 @@ Jika ingin ganti hero/banner atas, tinggal ubah URL pada dua tag <img> pertama.
 
     </td>
     <td width="40%" align="center">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG4xNmo2dnNsMzhnOTNtdzJkZWExd2Z5b2FkMm9xMDVjemN5aXdrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IJwKtwdAiLhLt8NNUN/giphy.gif" width="100%" alt="Coding Visual" />
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ZwcTVxZHQ1dTh2N3hyZndycTNlNmsxaWQxMHA2Z3cyMHJzamZ5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7B7rKjZpDQOCUtwsnW/giphy.gif" width="100%" alt="Coding Visual" />
     </td>
   </tr>
 </table>
